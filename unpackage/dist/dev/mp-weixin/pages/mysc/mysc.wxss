@@ -1,0 +1,141 @@
+.wu {
+  width: 100vw;
+  height: 60vh;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.wu text {
+  color: white;
+  font-size: 1em;
+  font-weight: bold;
+}
+.wu image {
+  width: 600rpx;
+  height: 450rpx;
+}
+.ys1 {
+  background: #A2B1B8;
+  color: white;
+}
+.ys2 {
+  background: white;
+  color: #A2B1B8;
+}
+.page {
+  width: 100%;
+  min-height: 90vh;
+  background: #E5E5E5;
+  padding-top: 100rpx;
+}
+.icon {
+  width: 40rpx;
+  height: 40rpx;
+  margin-left: 0.5rem;
+}
+.tab {
+  width: 95%;
+  margin: auto;
+  height: 55rpx;
+  display: flex;
+  margin-bottom: 1em;
+}
+.tab view {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.9em;
+}
+.box .item {
+  width: 100%;
+  height: 150rpx;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin-bottom: 0.5em;
+}
+.box .item text {
+  margin-left: 0.2rem;
+}
+.box .item .item-cart {
+  margin-left: 0.5em;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.box .item .item-cart .txt {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  color: black;
+  font-size: 1em;
+  width: 100%;
+  flex: 1;
+}
+.box .item .item-cart .cart-bq {
+  flex: 1;
+  font-size: 0.8rem;
+  color: #A2B1B8;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.box .item .item-cart .cart-bq .bq {
+  margin-left: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box .item .item-cart .cart-bq .bq image {
+  width: 50rpx;
+  height: 50rpx;
+  margin-left: 1em;
+}
+.sachv {
+  z-index: 99;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: #A2B1B8;
+  height: 55rpx;
+  height: 80rpx;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin-bottom: 1em;
+}
+.sachv .sach {
+  position: relative;
+  width: 100%;
+  height: 70%;
+  display: flex;
+  align-items: center;
+  margin-left: 3%;
+  justify-content: start;
+}
+.sachv .sach .text {
+  height: 50rpx;
+  position: absolute;
+  right: 20rpx;
+  color: black;
+  font-size: 1em;
+  font-weight: 350;
+}
+.sachv .sach image {
+  z-index: 99;
+}
+.sachv .sach input {
+  position: absolute;
+  width: 75%;
+  height: 100%;
+  top: 0;
+  padding-left: 10%;
+  color: #757575;
+  font-size: 24rpx;
+  background: #424240;
+  border-radius: 20rpx;
+}
+

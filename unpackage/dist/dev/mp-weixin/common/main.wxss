@@ -1,0 +1,11 @@
+
+page{
+	background: #E5E5E5;
+}
+/*每个页面公共css */
+button{
+	  border: none;
+	  background: none;
+	  outline: none;
+}
+

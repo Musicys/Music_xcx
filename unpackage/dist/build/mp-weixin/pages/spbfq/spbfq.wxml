@@ -1,0 +1,1 @@
+<view><video class="voide" src="{{ip+data.videCunchu}}"></video></view>

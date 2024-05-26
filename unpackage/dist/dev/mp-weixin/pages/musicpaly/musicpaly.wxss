@@ -1,0 +1,259 @@
+.srt.data-v-412c104e {
+  height: 25vh;
+  top: 43vh;
+}
+.srt0.data-v-412c104e {
+  top: 20vh;
+  height: 65vh;
+}
+.bh0.data-v-412c104e {
+  bottom: -25vh;
+}
+.bh.data-v-412c104e {
+  bottom: 0;
+}
+.rade.data-v-412c104e {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.h0.data-v-412c104e {
+  height: 0;
+  opacity: 0;
+}
+.h1.data-v-412c104e {
+  height: 20vh;
+}
+.name.data-v-412c104e {
+  margin: auto;
+  width: 75%;
+  margin-bottom: 10rpx ;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  color: #FFFFFF;
+  font-weight: bold;
+  z-index: 3;
+  position: absolute;
+  top: 10vh;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+.name text.data-v-412c104e {
+  text-align: center;
+}
+.name text.data-v-412c104e:nth-child(1) {
+  font-size: 1.2em;
+}
+.name text.data-v-412c104e:nth-child(2) {
+  font-size: 0.8em;
+}
+wx-slider .wx-slider-handle-wrapper.data-v-412c104e {
+  height: 15rpx;
+}
+.slider-light .wx-slider-track.data-v-412c104e {
+  background: linear-gradient(to right, #4169E1 0%, #00FFFF 100%);
+  width: 100%;
+}
+.ys1.data-v-412c104e {
+  color: #FFFFFF;
+  -webkit-transform: scale(1.4);
+          transform: scale(1.4);
+}
+.ys2.data-v-412c104e {
+  font-size: 0.8em;
+  color: #FFFFFF;
+}
+.ys3.data-v-412c104e {
+  font-size: 0.6rem;
+  color: #FFFFFF;
+}
+.page-body.data-v-412c104e {
+  width: 100vw;
+  height: 100vh;
+  /* 设置容器高度 */
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  position: relative;
+}
+.page-body .pege-top.data-v-412c104e {
+  z-index: 2;
+  width: 100%;
+  height: 13vh;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.page-body .pege-top image.data-v-412c104e {
+  width: 100rpx;
+  height: 120rpx;
+  margin-left: 1em;
+}
+.page-body .beij.data-v-412c104e {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  height: 100%;
+}
+.page-body .img.data-v-412c104e {
+  z-index: 1;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-shadow: 5px 5px 10px #888888;
+  position: absolute;
+  top: 20vh;
+  transition: all 0.3s;
+  /* 设置透明度渐变的过渡效果 */
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 60%;
+}
+.page-body .content-scroll.data-v-412c104e {
+  position: absolute;
+  width: 750rpx;
+  transition: all 0.3s;
+}
+.page-body .content-scroll .scroll-item.data-v-412c104e {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+}
+.page-body .content-scroll .scroll-item view.data-v-412c104e {
+  flex: 1;
+  text-align: center;
+  font-size: 1rem;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  white-space: nowrap;
+}
+.page-body .bttom.data-v-412c104e {
+  transition: all 0.3s;
+  /* 设置透明度渐变的过渡效果 */
+  height: 32vh;
+  position: absolute;
+  width: 100%;
+}
+.page-body .bttom .buttom-top.data-v-412c104e {
+  width: 50rpx;
+  height: 40rpx;
+  position: absolute;
+  top: -40rpx;
+  left: 80%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  opacity: 0.5;
+}
+.page-body .bttom .buttom-top image.data-v-412c104e {
+  width: 100%;
+  height: 100%;
+  transition: all 0.3s;
+  /* 设置透明度渐变的过渡效果 */
+}
+.page-body .bttom .buttom-time.data-v-412c104e {
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+.page-body .bttom .buttom-time view.data-v-412c104e {
+  color: #FFFFFF;
+}
+.page-body .bttom .buttom-time view.data-v-412c104e:nth-child(1) {
+  margin-left: 1em;
+}
+.page-body .bttom .buttom-time view.data-v-412c104e:nth-child(2) {
+  margin-right: 1em;
+}
+.page-body .bttom .gnk.data-v-412c104e {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  height: 80rpx;
+  margin-bottom: 3vh;
+  justify-content: center;
+  align-self: center;
+}
+.page-body .bttom .gnk view.data-v-412c104e:nth-child(4) {
+  margin-left: 3em;
+}
+.page-body .bttom .gnk view.data-v-412c104e {
+  width: 100rpx;
+  height: 100rpx;
+  position: relative;
+  margin-right: 1.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.page-body .bttom .gnk view image.data-v-412c104e {
+  width: 60rpx;
+  height: 60rpx;
+}
+.page-body .bttom .gnk view .bq.data-v-412c104e {
+  position: absolute;
+  height: 50rpx;
+  top: -5rpx;
+  right: -70rpx;
+  color: #FFFFFF;
+  font-size: 0.5rem;
+}
+.page-body .bttom .bfq.data-v-412c104e {
+  width: 100%;
+  height: 50rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3rpx;
+  font-size: 0.6rem;
+  color: #FFFFFF;
+}
+.page-body .bttom .bfq .box.data-v-412c104e {
+  width: 100%;
+}
+.page-body .bttom .but.data-v-412c104e {
+  width: 100%;
+  margin: 2vh auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150rpx;
+  position: relative;
+}
+.page-body .bttom .but button.data-v-412c104e {
+  border: none;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.page-body .bttom .but view.data-v-412c104e:nth-child(1) {
+  margin-right: 1em;
+}
+.page-body .bttom .but view:nth-child(1) image.data-v-412c104e {
+  width: 50rpx;
+  height: 50rpx;
+}
+.page-body .bttom .but view.data-v-412c104e:nth-child(5) {
+  margin-left: 1em;
+}
+.page-body .bttom .but view:nth-child(5) .minimg.data-v-412c104e {
+  width: 50rpx;
+  height: 50rpx;
+}
+.page-body .bttom .but view.data-v-412c104e:nth-child(3) {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+.page-body .bttom .but view image.data-v-412c104e {
+  width: 100rpx;
+  height: 100rpx;
+}
+

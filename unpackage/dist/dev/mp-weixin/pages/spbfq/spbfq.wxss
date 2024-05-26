@@ -1,0 +1,36 @@
+.voide {
+  width: 750rpx;
+}
+.gnk {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  height: 80rpx;
+  justify-content: start;
+  align-self: center;
+}
+.gnk view:nth-child(4) {
+  margin-left: 2.5em;
+}
+.gnk view {
+  width: 70rpx;
+  height: 70rpx;
+  position: relative;
+  margin-right: 1.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.gnk view image {
+  width: 100rpx;
+  height: 80rpx;
+}
+.gnk view .bq {
+  position: absolute;
+  height: 50rpx;
+  top: -5rpx;
+  right: -70rpx;
+  color: #FFFFFF;
+  font-size: 0.5rem;
+}
+
