@@ -1,11 +1,28 @@
-# uniapp
+# 故事歌(微信小程序)
 
-微信小程序：
+# uniapp开发
 
-![1](./1.jpg)
+用时15天：用vant组件库，采用vue2写法，对接支付接口，处理lrc歌词文件，实现动态歌词。 
 
-![2](./2.jpg)
 
-![3](./3.jpg)
 
-![4](./4.jpg)
+
+
+ <div style="width: 100%;  flex-wrap: wrap;  display: flex;  "><img style="width:40%" src="./img/2.jpg" alt="">
+
+​          <img style="width:40%" src="./img/1.jpg" alt="">
+
+​          
+
+​          <img  style="width:40%"  src="./img/3.jpg" alt="">
+
+​          <img style="width:40%" src="/img/4.jpg" alt="">
+
+​        <img style="width:40%" src="/img/5.jpg" alt="">
+
+​        </div>
+
+<img style="width:40%" src="/img/6.jpg" alt="">
+
+<img style="width:40%" src="/img/7.jpg" alt="">
+
